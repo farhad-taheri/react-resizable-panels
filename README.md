@@ -6,7 +6,7 @@
 
 If you like this project there are several ways to support it:
 
-- [Become a GitHub sponsor](https://github.com/sponsors/bvaughn/)
+
 - or [buy me a coffee](http://givebrian.coffee/)
 
 ## Installation
