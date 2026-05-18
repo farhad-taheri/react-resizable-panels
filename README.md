@@ -2,12 +2,7 @@
 
 `react-resizable-panels`: React components for resizable panel groups/layouts.
 
-## Support
 
-If you like this project there are several ways to support it:
-
-
-- or [buy me a coffee](http://givebrian.coffee/)
 
 ## Installation
 
